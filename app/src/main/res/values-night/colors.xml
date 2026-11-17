@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aqua_primary">#69E2C9</color>
+    <color name="aqua_secondary">#35BDA5</color>
+    <color name="aqua_light">#1A3733</color>
+    <color name="aqua_background">#101C1A</color>
+    <color name="aqua_surface">#1C302C</color>
+    <color name="aqua_field">#29423C</color>
+    <color name="aqua_text">#F1FFF9</color>
+    <color name="aqua_muted">#B4CFC7</color>
+    <color name="aqua_on_primary">#102A24</color>
+    <color name="aqua_decoration">#285B50</color>
+</resources>
